@@ -1,6 +1,6 @@
 # HOW TO USE
-##Master node
+## Master node
 bash master.sh [pod-network-cidr]
 `bash master.sh 192.168.0.0/24`
-##Woker node
+## Woker node
 bash work.sh
